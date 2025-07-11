@@ -1,0 +1,71 @@
+PowerSupply_Project/
+├── 01_Requirements/
+│   ├── System_Specs.pdf
+│   ├── Load_Profile.xlsx
+│   └── Use_Cases.txt
+│
+├── 02_Topology_Selection/
+│   ├── Topology_Comparison.xlsx
+│   ├── Simulation_Notes.pdf
+│   └── Chosen_Topology.txt
+│
+├── 03_Calculations/
+│   ├── Hand_Calculations.pdf
+│   ├── Excel_Design_Calculator.xlsx
+│   └── Magnetics_Design/
+│       ├── TransformerCalc.pdf
+│       └── Core_Selection.xlsx
+│
+├── 04_Simulations/
+│   ├── LTspice/
+│   │   ├── Main_Circuit.asc
+│   │   └── Compensation.asc
+│   ├── TI_WEBENCH/
+│   │   └── ProjectID.pdf
+│   └── Thermal_Models/
+│       └── MOSFET_TempRise_ElmerFEM.sim
+│
+├── 05_Schematic/
+│   ├── Altium_Design/
+│   │   ├── PS_Main.SchDoc
+│   │   ├── Symbols/
+│   │   └── Libraries/
+│   └── PDF_Output/
+│       └── PS_Main_Schematic.pdf
+│
+├── 06_PCB_Layout/
+│   ├── Altium_Project/
+│   ├── 3D_Model_Output/
+│   └── Gerber_Files/
+│       ├── FabReady.zip
+│       └── ReadMe.txt
+│
+├── 07_BOM/
+│   ├── BOM_Draft.xlsx
+│   ├── Supplier_Links.csv
+│   └── Alternate_Parts_List.xlsx
+│
+├── 08_Thermal_Design/
+│   ├── HeatSink_Selection.pdf
+│   ├── PowerLoss_Calc.xlsx
+│   └── Thermal_Simulation_Results.png
+│
+├── 09_Test_and_Debug/
+│   ├── Test_Plan.pdf
+│   ├── Measurement_Data/
+│   ├── Oscilloscope_Snapshots/
+│   └── Efficiency_Results.xlsx
+│
+├── 10_Firmware (if digital controller)/
+│   ├── Code/
+│   └── Documentation/
+│
+├── 11_Documents/
+│   ├── Final_Report.docx
+│   ├── Datasheets/
+│   ├── Notes.txt
+│   └── Presentations/
+│       └── Design_Review_1.pptx
+│
+└── Z_Backup/
+    └── Archive_2025-07-11.zip
